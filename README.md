@@ -1,5 +1,5 @@
 # helm
-It seems like you want to set up Helm and Tiller, create Helm charts, and organize your Helm chart project on a Kubernetes cluster. Below are the steps and commands to accomplish these tasks:
+
 
 **On the Master Instance:**
 
