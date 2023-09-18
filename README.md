@@ -1,7 +1,7 @@
 # helm
 
 
-**On the Master Instance:**
+**On the  linuxslave Instance:**
 
 1. Install Helm 3:
 
@@ -12,7 +12,7 @@
    ```
 
    This installs Helm 3, which doesn't require Tiller.
-
+on master instance
 2. Create a Kubernetes service account for Tiller:
 
    ```bash
